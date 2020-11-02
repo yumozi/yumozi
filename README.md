@@ -6,4 +6,4 @@ I am Yumozi, a developer and a high school student.\
 
 
 ### Languages that I use
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<python>&logoColor=white&color=2bbc8a)
+&ensp;&ensp;&ensp;![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-777BB4?style=flat-square&logo=Python&logoColor=fff) 
