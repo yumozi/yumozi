@@ -2,7 +2,7 @@
 I am Yumozi, a developer and a high school student. 
 
 ### Languages that I use
-![](https://img.shields.io/badge/<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />-Python-informational?style=flat&logo=<PYTHON>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<python>&logoColor=white&color=2bbc8a)
 
 
 - 🔭 I’m currently working on ...
