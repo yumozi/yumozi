@@ -8,5 +8,9 @@ I am Yumozi, a developer and a high school student.\
 ### Languages that I use
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff) ![Java](https://img.shields.io/badge/-Java-fc683f?style=flat-square&logo=Java&logoColor=fff) ![C](https://img.shields.io/badge/-Css-A8B9CC?style=flat-square&logo=C&logoColor=fff) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=fff)
 
-![Csss](https://img.shields.io/badge/-Css-A8B9CC?style=flat-square&logo=C&logoColor=fff) 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=fff)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=C&logoColor=fff)
+![C](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=fff)
+![Swift](https://img.shields.io/badge/-C-FA7343?style=flat-square&logo=Swift&logoColor=fff)
+
+
