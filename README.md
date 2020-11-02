@@ -1,6 +1,6 @@
 ### Hello! 
 I am Yumozi, a developer and a high school student. 
-<img src="https://raw.githubusercontent.com/aia7k7k/aia7k7k/master/chihiro.gif" width="40px">
+<img src="https://github.com/aia7k7k/aia7k7k/blob/main/chihiro.gif" width="40px">
 
 
 
