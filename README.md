@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello! 
+I am Yumozi, a developer and a high school student. 
 
-<!--
-**aia7k7k/aia7k7k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages that I use
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<PYTHON>&logoColor=white&color=2bbc8a)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
