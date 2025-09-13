@@ -1,5 +1,5 @@
 ### Hello! 
-I am Yumozi, a software developer and a researcher.\
+I am Eric, a software developer and a researcher.\
 <img src="https://github.com/aia7k7k/aia7k7k/blob/main/chihiro.gif" width="150px">
 
 
