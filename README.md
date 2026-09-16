@@ -1,5 +1,5 @@
 ### Hello there!
-I am Eric, a ML engineer and a full-stack developer.
+I am Eric, currently working on my startup, Omoi.
 
 ### Tech Stack
 
